@@ -1,4 +1,4 @@
-ORDER BY nota DESC;
+
 # 📊 Meus Estudos de SQL
 
 Repositório dedicado a registrar minha evolução, desafios práticos e correções de bugs durante meus estudos de SQL para Engenharia de Dados.
